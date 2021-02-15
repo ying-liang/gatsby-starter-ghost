@@ -4,7 +4,7 @@
     "contentApiKey": "2bb8ab2c670c94e0035044083d"
   },
   "production": {
-    "apiUrl": "https://yingliang-26a7bc32.localhost.run",
+    "apiUrl": "yingliang-26a7bc32.localhost.run",
     "contentApiKey": "2bb8ab2c670c94e0035044083d"
   }
 }
